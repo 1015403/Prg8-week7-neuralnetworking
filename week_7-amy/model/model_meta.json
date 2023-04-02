@@ -1,0 +1,1 @@
+{"inputUnits":[2],"outputUnits":1,"inputs":{"horsepower":{"dtype":"number","min":46,"max":230},"cylinders":{"dtype":"number","min":3,"max":8}},"outputs":{"mpg":{"dtype":"number","min":9,"max":44}},"isNormalized":true}
